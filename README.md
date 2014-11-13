@@ -10,30 +10,30 @@ We choose to connect the emotiv to a Playstation 1, through a light-gun used in 
 Hardware needed
 ========
 
-* [Emotiv EEG headset](http://emotiv.com/)
-* [USB Relay](http://www.ebay.com/itm/251395571994)
-* [Playsation 1 (or 2)]
-* [A light-gun that uses a pedal connected to the gun with either 3.5mm jack, RJ9 or anything else that has 2 wires.]
-* [A game, like time crisis]
+* [Emotiv EEG headset.](http://emotiv.com/)
+* [USB Relay.](http://www.ebay.com/itm/251395571994)
+* Playsation 1 (or 2).
+* A light-gun that uses a pedal connected to the gun with either 3.5mm jack, RJ9 or anything else that has 2 wires.
+* A game, like time crisis.
 
 Dependencies
 ========
 
-* [Emotiv SDK lite](http://emotiv.com/store/product_262.html)
-* [Emotiv Control Panel](http://emotiv.com/store/product_72.html)
-* [Python 2.7.7 32bit](https://www.python.org/)
-* [Kivy 1.8.0 32bit](https://www.python.org/)
-* [PyEpoc](https://github.com/dplass/PyEpoc)
+* [Emotiv SDK lite.](http://emotiv.com/store/product_262.html)
+* [Emotiv Control Panel.](http://emotiv.com/store/product_72.html)
+* [Python 2.7.7 32bit.](https://www.python.org/)
+* [Kivy 1.8.0 32bit.](https://www.python.org/)
+* [PyEpoc.](https://github.com/dplass/PyEpoc)
 
 Installation
 ============
 
 1. install emotiv control panel and emotiv sdk lite.
-2. copy all the files from Emotiv SDK v2.0.0.20-LITE/dll/32 bit into "Emotiv EPOC Control Panel v2.0.0.20/Applications"
-3. copy "BlissBrain_TimeCrisis.py", "blank.png", "crouch.png" and "stand.png" into "Emotiv EPOC Control Panel v2.0.0.20/Applications"
-4. copy "usb_relay_device.dll" that you got from the ebay-seller of the usb-relay into "Emotiv EPOC Control Panel v2.0.0.20/Applications"
+2. copy all the files from Emotiv SDK v2.0.0.20-LITE/dll/32 bit into "Emotiv EPOC Control Panel v2.0.0.20/Applications".
+3. copy "BlissBrain_TimeCrisis.py", "blank.png", "crouch.png" and "stand.png" into "Emotiv EPOC Control Panel v2.0.0.20/Applications".
+4. copy "usb_relay_device.dll" that you got from the ebay-seller of the usb-relay into "Emotiv EPOC Control Panel v2.0.0.20/Applications".
 5. download the wrapper PyEpoc from:
-[https://raw.githubusercontent.com/dplass/PyEpoc/master/PyEpoc.py](https://raw.githubusercontent.com/dplass/PyEpoc/master/PyEpoc.py) and place it into "Emotiv EPOC Control Panel v2.0.0.20/Applications"
+[https://raw.githubusercontent.com/dplass/PyEpoc/master/PyEpoc.py](https://raw.githubusercontent.com/dplass/PyEpoc/master/PyEpoc.py) and place it into "Emotiv EPOC Control Panel v2.0.0.20/Applications".
 
 Add the dll folder to your Environmental Variables by right-clicking “My computer”, select “properties”, then “advanced” and then “Enviroment variables”.
 
