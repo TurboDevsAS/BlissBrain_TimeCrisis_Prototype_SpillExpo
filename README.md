@@ -29,7 +29,7 @@ Installation
 ============
 
 1. install emotiv control panel and emotiv sdk lite.
-2. copy all the files from Emotiv SDK v2.0.0.20-LITE/dll/32 bit into "Emotiv EPOC Control Panel v2.0.0.20/Applications".
+2. copy all the files from ```Emotiv SDK v2.0.0.20-LITE/dll/32 bit``` into ```Emotiv EPOC Control Panel v2.0.0.20/Applications```.
 3. copy "BlissBrain_TimeCrisis.py", "blank.png", "crouch.png" and "stand.png" into "Emotiv EPOC Control Panel v2.0.0.20/Applications".
 4. copy "usb_relay_device.dll" that you got from the ebay-seller of the usb-relay into "Emotiv EPOC Control Panel v2.0.0.20/Applications".
 5. download the wrapper PyEpoc from:
