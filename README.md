@@ -61,6 +61,7 @@ We got the idea from research done with fMRI scanners, where the same brain-acti
 This research was presented by [Mary Lou Jepsen in a TED-talk last year](https://www.ted.com/talks/mary_lou_jepsen_could_future_devices_read_images_from_our_brains).
 
 The complete study can be read here:
+
 [Brain areas underlying visual mental imagery and visual perception: an fMRI study](http://www.wjh.harvard.edu/~kwn/Kosslyn_pdfs/2004Ganis_CogBrainRes20_BrainAreas.pdf)
 
 In our own research, using the Emotiv EEG headset, we asked the test-subjects to visualise the symbols " + " and " - " while we trained the tought-commands for "lift" and "drop" in the Emotiv Control Panel.
@@ -98,7 +99,9 @@ If you have everything setup and the cube in the control panel is moving up/down
 A window should appear, displaying a solider with a gun either standing or crouching depending if you're thinking about the symbol for "lift" or "drop".
 
 You should also hear a clicking noise from the usb-relay, and see the red-light on the usb-relay switch between on and off whenever you switch between "lift" and "drop".
+
 While playing your preferred light-gun game, simply think about the symbol for "drop" to activate the "pedal", and think about the symbol for "lift" to deactivate the "pedal".
+
 Usually, activating the pedal means that you are crouching in the game, but some games may utilize the pedal differently.
 
 Have fun!
