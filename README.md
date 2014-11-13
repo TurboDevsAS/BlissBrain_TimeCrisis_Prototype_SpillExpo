@@ -52,12 +52,14 @@ Training and BlissBrain background
 
 If you already own a Emotiv headset, you probably know how to visualise and train the cube moving up and down.
 Although this method will work, we recommend a different approach, based on our own research and experience.
+
 The concept of BlissBrain is that you don't visualise an object (the cube) moving up or down while you train the thought-command in the Control Panel.
 Rather than visualising the movement of an object, we recommend that you visualise a symbol or even a picture in your head while you train the thought-command in the control panel.
 
 We got the idea from research done with fMRI scanners, where the same brain-activity occurred both when a test-subject saw an image and when the test-subject visualised the same image later.
+
 This research was presented by [Mary Lou Jepsen in a TED-talk last year](https://www.ted.com/talks/mary_lou_jepsen_could_future_devices_read_images_from_our_brains).
-The complete study can be read here: [Brain areas underlying visual mental imagery and visual perception: an fMRI study](http://www.wjh.harvard.edu/~kwn/Kosslyn_pdfs/2004Ganis_CogBrainRes20_BrainAreas.pdf]
+The complete study can be read here: [Brain areas underlying visual mental imagery and visual perception: an fMRI study](http://www.wjh.harvard.edu/~kwn/Kosslyn_pdfs/2004Ganis_CogBrainRes20_BrainAreas.pdf)
 
 In our own research, using the Emotiv EEG headset, we asked the test-subjects to visualise the symbols " + " and " - " while we trained the tought-commands for "lift" and "drop" in the Emotiv Control Panel.
 While we trained the symbols " + " and " - ", we displayed the symbols in full-screen on a different device to make it easier for the test-subject to focus on the symbol.
