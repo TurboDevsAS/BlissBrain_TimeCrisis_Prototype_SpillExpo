@@ -59,11 +59,15 @@ Rather than visualising the movement of an object, we recommend that you visuali
 We got the idea from research done with fMRI scanners, where the same brain-activity occurred both when a test-subject saw an image and when the test-subject visualised the same image later.
 
 This research was presented by [Mary Lou Jepsen in a TED-talk last year](https://www.ted.com/talks/mary_lou_jepsen_could_future_devices_read_images_from_our_brains).
-The complete study can be read here: [Brain areas underlying visual mental imagery and visual perception: an fMRI study](http://www.wjh.harvard.edu/~kwn/Kosslyn_pdfs/2004Ganis_CogBrainRes20_BrainAreas.pdf)
+
+The complete study can be read here:
+[Brain areas underlying visual mental imagery and visual perception: an fMRI study](http://www.wjh.harvard.edu/~kwn/Kosslyn_pdfs/2004Ganis_CogBrainRes20_BrainAreas.pdf)
 
 In our own research, using the Emotiv EEG headset, we asked the test-subjects to visualise the symbols " + " and " - " while we trained the tought-commands for "lift" and "drop" in the Emotiv Control Panel.
+
 While we trained the symbols " + " and " - ", we displayed the symbols in full-screen on a different device to make it easier for the test-subject to focus on the symbol.
 This was also the method we used at SpillExpo, where over 17,000 people came, and around 500 got the chance to play around with this prototype.
+The people who tried it needed to train "neutral", "lift" and "drop" 3-5 times for them to have control.
 
 Instructions for training using symbols:
 
@@ -78,7 +82,9 @@ Setup hardware:
 ============
 
 It doesn't matter what type of plug you have for your playstation light-gun, as long as it has a pedal with a cable that only has two wires.
-For this guide, we are using a "REAL ARCADE LIGHT GUN" that has a old telephone-jack (RJ9). Rather than destroying the pedal, take a standard RJ9 to RJ9 cable (or if your light-gun has a 3.5mm jack, take a 3.5mm jack to 3.5mm jack cable) and chop of the other end.
+For this guide, we are using a "REAL ARCADE LIGHT GUN" that has a old telephone-jack (RJ9).
+
+Rather than destroying the pedal, take a standard RJ9 to RJ9 cable (or if your light-gun has a 3.5mm jack, take a 3.5mm jack to 3.5mm jack cable) and chop of the other end.
 Now you have a long RJ9 with 2 wires sticking out of the other end.
 Connect these two wires to the usb-relay (positive and negative inputs).
 
@@ -88,7 +94,9 @@ Playing:
 ============
 
 If you have everything setup and the cube in the control panel is moving up/down when you're visualising the symbols you selected, you can start the "BlissBrain_TimeCrisis.py" script.
+
 A window should appear, displaying a solider with a gun either standing or crouching depending if you're thinking about the symbol for "lift" or "drop".
+
 You should also hear a clicking noise from the usb-relay, and see the red-light on the usb-relay switch between on and off whenever you switch between "lift" and "drop".
 While playing your preferred light-gun game, simply think about the symbol for "drop" to activate the "pedal", and think about the symbol for "lift" to deactivate the "pedal".
 Usually, activating the pedal means that you are crouching in the game, but some games may utilize the pedal differently.
