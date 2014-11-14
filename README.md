@@ -5,9 +5,15 @@ Intro
 
 **Current version:** BlissBrain Prototype - TimeCrisis 0.0.1 Alpha for Windows
 
+**Licence:** GPLv2
+
 **Goal:** to show developers how a Emotiv EEG headset can be connected to almost anything using a USB relay with BlissBrain.
 
 **Solution:** we connected the relay with BlissBrain to a Playstation 1, through the light-gun used in games such as Time Crisis.
+
+**Authors:** TurboDevs AS: Tobias Andersen, Sigve Larsen, Nine Bauge, Jan Ole Lysen Andersen, Emilie Thomassen, Raymond Holthe.
+
+[![DOI](https://zenodo.org/badge/4893/TurboDevsAS/BlissBrain_TimeCrisis_Prototype_SpillExpo.png)](http://dx.doi.org/10.5072/zenodo.12707)
 
 ![Picture of the Time Crisis stand, taken at SpillExpo 2014, with a few of the players](http://turbolego.com/timecrisisarray.jpg)
 
@@ -121,13 +127,3 @@ Usually, activating the pedal means that you are crouching in the game, but some
 Have fun! :yum:
 
 ![Picture of the Time Crisis stand, taken at SpillExpo 2014](http://turbolego.com/TimeCrisisSpillExpo.png)
-
-
-
-Authors
-=======
-**TurboDevs AS:**
-
-Tobias Andersen, Sigve Larsen, Nine Bauge, Jan Ole Lysen Andersen, Emilie Thomassen, Raymond Holthe.
-
-[![DOI](https://zenodo.org/badge/4893/TurboDevsAS/BlissBrain_TimeCrisis_Prototype_SpillExpo.png)](http://dx.doi.org/10.5072/zenodo.12707)
