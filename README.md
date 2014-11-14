@@ -77,10 +77,13 @@ The people who tried it needed to train "neutral", "lift" and "drop" 3-5 times f
 Instructions for training using symbols:
 
 **1.** on a different screen/device, display a symbol like " + " or " ↑ " or whatever you want.
+
 **2.** while the test-subject is focusing on the symbol and visualising the symbol in his/her head, train the "lift" command in the Emotiv control panel.
+
 **3.** repeat for the "drop" command in the Emotiv contorl panel, but this time, use a different symbol like " - " or " ↓ "
 
 Instructions for training without symbols:
+
 **1.** train "lift" and "drop" in the Emotiv Control Panel like usual.
 
 Setup hardware:
