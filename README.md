@@ -7,7 +7,7 @@ This prototype of BlissBrain was made for SpillExpo, Norways largest gaming expo
 It was specifically designed to show developers how a Emotiv EEG headset can be connected to almost anything using a USB relay.
 We choose to connect the emotiv to a Playstation 1, through a light-gun used in games such as Time Crisis.
 
-![Picture of the Time Crisis stand, taken at SpillExpo 2014](http://turbolego.com/TimeCrisisSpillExpo.png)
+![Picture of the Time Crisis stand, taken at SpillExpo 2014, with a few of the players](http://turbolego.com/timecrisisarray.jpg)
 
 Hardware needed
 ========
@@ -114,6 +114,9 @@ While playing your preferred light-gun game, simply think about the symbol for "
 Usually, activating the pedal means that you are crouching in the game, but some games may utilize the pedal differently.
 
 Have fun!
+
+![Picture of the Time Crisis stand, taken at SpillExpo 2014](http://turbolego.com/TimeCrisisSpillExpo.png)
+
 
 
 Authors
