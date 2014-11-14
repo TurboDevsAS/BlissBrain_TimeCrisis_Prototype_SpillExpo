@@ -13,6 +13,8 @@ Intro
 
 **Made by TurboDevs AS:** Tobias Andersen, Sigve Larsen, Nine Bauge, Jan Ole Lysen Andersen, Emilie Thomassen, Raymond Holthe.
 
+**Contact:** [kontakt@turbodevs.no](mailto:kontakt@turbodevs.no?Subject=From%20GitHub)
+
 [![DOI](https://zenodo.org/badge/4893/TurboDevsAS/BlissBrain_TimeCrisis_Prototype_SpillExpo.png)](http://dx.doi.org/10.5072/zenodo.12707)
 
 ![Picture of the Time Crisis stand, taken at SpillExpo 2014, with a few of the players](http://turbolego.com/timecrisisarray.jpg)
