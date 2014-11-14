@@ -130,5 +130,4 @@ TurboDevs AS and Larsen Development.
 
 Tobias Andersen, Sigve Larsen, Nine Bauge, Jan Ole Lysen Andersen, Emilie Thomassen, Raymond Holthe.
 
-[![DOI](https://zenodo.org/badge/4893/TurboDevsAS/EEGBliss.png)](http://dx.doi.org/10.5281/zenodo.10700)
 
