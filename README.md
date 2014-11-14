@@ -126,7 +126,7 @@ Have fun! :yum:
 
 Authors
 =======
-TurboDevs AS and Larsen Development.
+**TurboDevs AS:**
 
 Tobias Andersen, Sigve Larsen, Nine Bauge, Jan Ole Lysen Andersen, Emilie Thomassen, Raymond Holthe.
 
