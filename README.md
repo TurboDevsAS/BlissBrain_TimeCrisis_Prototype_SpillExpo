@@ -130,4 +130,4 @@ Authors
 
 Tobias Andersen, Sigve Larsen, Nine Bauge, Jan Ole Lysen Andersen, Emilie Thomassen, Raymond Holthe.
 
-
+[![DOI](https://zenodo.org/badge/4893/TurboDevsAS/BlissBrain_TimeCrisis_Prototype_SpillExpo.png)](http://dx.doi.org/10.5072/zenodo.12707)
