@@ -1,12 +1,13 @@
 Intro
 ========
 
-This is a readme for the BlissBrain prototype that was made for SpillExpo 2014, Norway's largest videogame-expo. :video_game:
+######This is a readme for the BlissBrain prototype that was made for SpillExpo 2014, Norway's largest videogame-expo. :video_game:
 
 Current version: BlissBrain Prototype - TimeCrisis 0.0.1 Alpha for Windows
 
-Purpose: to show developers how a Emotiv EEG headset can be connected to almost anything using a USB relay.
-We choose to connect the Emotiv to a Playstation 1, through a light-gun used in games such as Time Crisis.
+Purpose: to show developers how a Emotiv EEG headset can be connected to almost anything using a USB relay with BlissBrain.
+
+For this demonstration, we connected to a Playstation 1, through the light-gun used in games such as Time Crisis.
 
 ![Picture of the Time Crisis stand, taken at SpillExpo 2014, with a few of the players](http://turbolego.com/timecrisisarray.jpg)
 
