@@ -7,6 +7,8 @@ This prototype of BlissBrain was made for SpillExpo, Norways largest gaming expo
 It was specifically designed to show developers how a Emotiv EEG headset can be connected to almost anything using a USB relay.
 We choose to connect the emotiv to a Playstation 1, through a light-gun used in games such as Time Crisis.
 
+![Picture of the Time Crisis stand, taken at SpillExpo 2014](http://turbolego.com/TimeCrisisSpillExpo.png)
+
 Hardware needed
 ========
 
@@ -85,9 +87,16 @@ Setup hardware:
 It doesn't matter what type of plug you have for your playstation light-gun, as long as it has a pedal with a cable that only has two wires.
 For this guide, we are using a "REAL ARCADE LIGHT GUN" that has a old telephone-jack (RJ9).
 
+![The RJ9 plug on a REAL ARCADE LIGHT GUN](http://turbolego.com/gun1.png)
+
+
 Rather than destroying the pedal, take a standard RJ9 to RJ9 cable (or if your light-gun has a 3.5mm jack, take a 3.5mm jack to 3.5mm jack cable) and chop of the other end.
+![The 3.5mm plug on a scorpion light gun](http://turbolego.com/gun2.png)
+
 Now you have a long RJ9 with 2 wires sticking out of the other end.
 Connect these two wires to the usb-relay (positive and negative inputs).
+
+![How to connect the RJ9 cable to the relay](http://turbolego.com/relay.png)
 
 Done!
 
