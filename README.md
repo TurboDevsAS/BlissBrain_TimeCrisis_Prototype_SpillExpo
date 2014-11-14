@@ -74,7 +74,7 @@ While we trained the symbols " + " and " - ", we displayed the symbols in full-s
 This was also the method we used at SpillExpo, where over 17,000 people came, and around 500 got the chance to play around with this prototype.
 The people who tried it needed to train "neutral", "lift" and "drop" 3-5 times for them to have control.
 
-Instructions for training using symbols:
+######Instructions for training using symbols:
 
 **1.** on a different screen/device, display a symbol like " + " or " ↑ " or whatever you want.
 
@@ -82,7 +82,7 @@ Instructions for training using symbols:
 
 **3.** repeat for the "drop" command in the Emotiv contorl panel, but this time, use a different symbol like " - " or " ↓ "
 
-Instructions for training without symbols:
+######Instructions for training without symbols:
 
 **1.** train "lift" and "drop" in the Emotiv Control Panel like usual.
 
