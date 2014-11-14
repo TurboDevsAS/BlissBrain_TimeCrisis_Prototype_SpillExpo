@@ -1,7 +1,7 @@
 Intro
 ========
 
-This is a readme for the BlissBrain prototype that was made for SpillExpo 2014, Norway's largest videogame-expo.
+This is a readme for the BlissBrain prototype that was made for SpillExpo 2014, Norway's largest videogame-expo. :video_game:
 
 Current version: BlissBrain Prototype - TimeCrisis 0.0.1 Alpha for Windows
 
@@ -114,7 +114,7 @@ While playing your preferred light-gun game, simply think about the symbol for "
 
 Usually, activating the pedal means that you are crouching in the game, but some games may utilize the pedal differently.
 
-Have fun!
+Have fun! :yum:
 
 ![Picture of the Time Crisis stand, taken at SpillExpo 2014](http://turbolego.com/TimeCrisisSpillExpo.png)
 
