@@ -3,7 +3,8 @@ Intro
 
 Current version: Prototype 0.0.1 Alpha for Windows
 
-This prototype of BlissBrain was made for SpillExpo, Norways largest gaming expo.
+This prototype of BlissBrain was made for SpillExpo 2014, Norways largest gaming expo.
+
 It was specifically designed to show developers how a Emotiv EEG headset can be connected to almost anything using a USB relay.
 We choose to connect the emotiv to a Playstation 1, through a light-gun used in games such as Time Crisis.
 
