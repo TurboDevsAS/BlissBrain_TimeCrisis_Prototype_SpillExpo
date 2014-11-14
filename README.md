@@ -1,13 +1,13 @@
 Intro
 ========
 
-######This is a readme for the BlissBrain prototype that was made for SpillExpo 2014, Norway's largest videogame-expo. :video_game:
+#####This is a readme for the BlissBrain prototype that was made for SpillExpo 2014, Norway's largest videogame-expo. :video_game:
 
-Current version: BlissBrain Prototype - TimeCrisis 0.0.1 Alpha for Windows
+**Current version:** BlissBrain Prototype - TimeCrisis 0.0.1 Alpha for Windows
 
-Purpose: to show developers how a Emotiv EEG headset can be connected to almost anything using a USB relay with BlissBrain.
+**Goal:** to show developers how a Emotiv EEG headset can be connected to almost anything using a USB relay with BlissBrain.
 
-For this demonstration, we connected to a Playstation 1, through the light-gun used in games such as Time Crisis.
+**Solution:** we connected the relay with BlissBrain to a Playstation 1, through the light-gun used in games such as Time Crisis.
 
 ![Picture of the Time Crisis stand, taken at SpillExpo 2014, with a few of the players](http://turbolego.com/timecrisisarray.jpg)
 
@@ -76,12 +76,12 @@ The people who tried it needed to train "neutral", "lift" and "drop" 3-5 times f
 
 Instructions for training using symbols:
 
-1. on a different screen/device, display a symbol like " + " or " ↑ " or whatever you want.
-2. while the test-subject is focusing on the symbol and visualising the symbol in his/her head, train the "lift" command in the Emotiv control panel.
-3. repeat for the "drop" command in the Emotiv contorl panel, but this time, use a different symbol like " - " or " ↓ "
+**1.** on a different screen/device, display a symbol like " + " or " ↑ " or whatever you want.
+**2.** while the test-subject is focusing on the symbol and visualising the symbol in his/her head, train the "lift" command in the Emotiv control panel.
+**3.** repeat for the "drop" command in the Emotiv contorl panel, but this time, use a different symbol like " - " or " ↓ "
 
 Instructions for training without symbols:
-1. train "lift" and "drop" in the Emotiv Control Panel like usual.
+**1.** train "lift" and "drop" in the Emotiv Control Panel like usual.
 
 Setup hardware:
 ============
