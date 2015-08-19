@@ -74,7 +74,7 @@ This research was presented by [Mary Lou Jepsen in a TED-talk last year](https:/
 
 The complete study can be read here:
 
-[Brain areas underlying visual mental imagery and visual perception: an fMRI study](http://www.wjh.harvard.edu/~kwn/Kosslyn_pdfs/2004Ganis_CogBrainRes20_BrainAreas.pdf)
+[Brain areas underlying visual mental imagery and visual perception: an fMRI study](http://www.sciencedirect.com/science/article/pii/S0926641004000709)
 
 In our own research, using the Emotiv EEG headset, we asked the test-subjects to visualise the symbols " + " and " - " while we trained the tought-commands for "lift" and "drop" in the Emotiv Control Panel.
 
