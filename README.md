@@ -15,9 +15,9 @@ Intro
 
 **Contact:** [kontakt@turbodevs.no](mailto:kontakt@turbodevs.no?Subject=From%20GitHub)
 
-[![DOI](https://zenodo.org/badge/4893/TurboDevsAS/BlissBrain_TimeCrisis_Prototype_SpillExpo.png)](http://dx.doi.org/10.5072/zenodo.12708)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12708.svg)](http://dx.doi.org/10.5072/zenodo.12708)
 
-![Picture of the Time Crisis stand, taken at SpillExpo 2014, with a few of the players](http://turbolego.com/timecrisisarray.jpg)
+![Picture of the Time Crisis stand, taken at SpillExpo 2014, with a few of the players](https://github.com/user-attachments/assets/679ba891-8087-4cf4-8f0c-ef96515d0ce1)
 
 Hardware needed
 ========
@@ -100,16 +100,17 @@ Setup hardware:
 It doesn't matter what type of plug you have for your playstation light-gun, as long as it has a pedal with a cable that only has two wires.
 For this guide, we are using a "REAL ARCADE LIGHT GUN" that has a old telephone-jack (RJ9).
 
-![The RJ9 plug on a REAL ARCADE LIGHT GUN](http://turbolego.com/gun1.png)
+![The RJ9 plug on a REAL ARCADE LIGHT GUN](https://github.com/user-attachments/assets/47272e6f-4370-4059-9116-8ef42cdaf90a)
 
 
 Rather than destroying the pedal, take a standard RJ9 to RJ9 cable (or if your light-gun has a 3.5mm jack, take a 3.5mm jack to 3.5mm jack cable) and chop of the other end.
-![The 3.5mm plug on a scorpion light gun](http://turbolego.com/gun2.png)
+![The 3.5mm plug on a scorpion light gun](https://github.com/user-attachments/assets/3bada995-0bf3-40b1-8d53-d5ac864bab05)
+
 
 Now you have a long RJ9 with 2 wires sticking out of the other end.
 Connect these two wires to the usb-relay (positive and negative inputs).
 
-![How to connect the RJ9 cable to the relay](http://turbolego.com/relay.png)
+![How to connect the RJ9 cable to the relay](https://github.com/user-attachments/assets/944fcbe4-34b6-40ff-ada6-c2153e479b0e)
 
 Done!
 
@@ -128,4 +129,4 @@ Usually, activating the pedal means that you are crouching in the game, but some
 
 Have fun! :yum:
 
-![Picture of the Time Crisis stand, taken at SpillExpo 2014](http://turbolego.com/TimeCrisisSpillExpo.png)
+![Picture of the Time Crisis stand, taken at SpillExpo 2014](https://github.com/user-attachments/assets/c6f5916d-75ca-40d4-9615-363a02e23d71)
